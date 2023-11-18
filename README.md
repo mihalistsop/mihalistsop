@@ -8,7 +8,7 @@ For more information about my experience or to connect, you can reach me through
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://mtsop.co/Mtsop.html#sec-e947)
 [![Personal Website Badge](https://img.shields.io/badge/mtsop.co-8A2BE2)](https://www.mtsop.co/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mihalis.tsop@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalis-tsopanoglou-5934a1243/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/michalis-tsopanoglou-5934a1243/](https://www.linkedin.com/in/michael-tsopanoglou-5934a1243/))
 
 
 
