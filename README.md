@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Michael👋</h2>
  
-Data Scientist | Data Analyst | Statistician 📊.
+Jr. Data Scientist 📊.
 Passionate about leveraging data to solve intricate problems and drive business success | Proficient in statistics, with expertise in exploratory data analysis and visualization | Eager to apply skills to real-world challenges.
 
 For more information about my experience or to connect, you can reach me through various channels:
